@@ -1,0 +1,7 @@
+telethon
+python-dotenv
+pytesseract
+pillow
+undetected-chromedriver
+selenium
+pytz
